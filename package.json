@@ -1,0 +1,12 @@
+{
+  "name": "esp32-lyrics-proxy",
+  "version": "1.0.0",
+  "description": "Fast Lyrics Proxy Server for ESP32",
+  "main": "lyrics_proxy.js",
+  "scripts": {
+    "start": "node lyrics_proxy.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
